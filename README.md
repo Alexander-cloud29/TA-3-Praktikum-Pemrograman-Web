@@ -1,5 +1,15 @@
 # TA-3-Praktikum-Pemrograman-Web
 
+# Dokumentasi
+
+<img width="1898" height="862" alt="image" src="https://github.com/user-attachments/assets/871c4a4d-8c68-4646-84c8-1eddb6047c58" />
+<img width="1896" height="731" alt="image" src="https://github.com/user-attachments/assets/b92129f6-aae5-47e1-a7b4-8856211e9117" />
+<img width="1892" height="759" alt="image" src="https://github.com/user-attachments/assets/7dfbc449-5e48-486b-a4a9-0ebd24dd0d6c" />
+<img width="1895" height="859" alt="image" src="https://github.com/user-attachments/assets/14c51b23-67ba-413c-875d-59d779170d76" />
+<img width="1894" height="162" alt="image" src="https://github.com/user-attachments/assets/463e1728-3bba-4ff0-8bd8-c3b2a3ccbe35" />
+
+---
+
 # 🌐 Technologia - Responsive Tech Company Landing Page
 
 Landing page responsif untuk **perusahaan teknologi modern** yang menonjolkan kesan profesional, bersih, dan futuristik.  
@@ -57,4 +67,4 @@ Dipilih karena fleksibilitas tinggi, kemudahan kustomisasi, serta kemampuan menc
 ## ⚙️ Cara Menjalankan Proyek
 1. Clone repository ini:
    ```bash
-   git clone https://github.com/username/technologia-landing-page.git
+   git clone https://github.com/Alexander-cloud29/TA-3-Praktikum-Pemrograman-Web
