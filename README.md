@@ -13,7 +13,6 @@
 # 🌐 Technologia - Responsive Tech Company Landing Page
 
 Landing page responsif untuk **perusahaan teknologi modern** yang menonjolkan kesan profesional, bersih, dan futuristik.  
-Dibangun menggunakan **Tailwind CSS** tanpa tambahan JavaScript eksternal — semua animasi dan transisi murni dari framework CSS.
 
 ---
 
@@ -26,9 +25,8 @@ Dipilih karena fleksibilitas tinggi, kemudahan kustomisasi, serta kemampuan menc
 ## 🧩 Komponen yang Tersedia
 
 ### 1. Header / Navigation
-- Logo perusahaan di sisi kiri.  
+- Logo / Nama perusahaan di sisi kiri.  
 - Menu navigasi responsif dengan efek transisi halus.  
-- Tampil sebagai *hamburger menu* di perangkat mobile tanpa JavaScript.
 
 ### 2. Hero Section
 - Headline kuat dan inspiratif yang merepresentasikan perusahaan teknologi masa depan.  
@@ -41,7 +39,7 @@ Dipilih karena fleksibilitas tinggi, kemudahan kustomisasi, serta kemampuan menc
 - Menggunakan grid responsif untuk menyesuaikan layout di berbagai ukuran layar.
 
 ### 4. About Section
-- Informasi singkat mengenai perusahaan, visi, dan nilai-nilai inti.  
+- Informasi singkat mengenai perusahaan.  
 - Desain clean dengan efek *fade-in* transisi lembut saat di-scroll.
 
 ### 5. Contact Form
